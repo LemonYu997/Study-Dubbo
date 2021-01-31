@@ -1,0 +1,268 @@
+31-Jan-2021 18:22:50.040 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.24
+31-Jan-2021 18:22:50.059 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 27 2017 13:05:30 UTC
+31-Jan-2021 18:22:50.060 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.24.0
+31-Jan-2021 18:22:50.060 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+31-Jan-2021 18:22:50.060 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+31-Jan-2021 18:22:50.060 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+31-Jan-2021 18:22:50.060 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             F:\Java\JDK8\jre
+31-Jan-2021 18:22:50.061 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_241-b07
+31-Jan-2021 18:22:50.061 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+31-Jan-2021 18:22:50.061 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         H:\apache-tomcat-8.5.24
+31-Jan-2021 18:22:50.061 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         H:\apache-tomcat-8.5.24
+31-Jan-2021 18:22:50.061 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=H:\apache-tomcat-8.5.24\conf\logging.properties
+31-Jan-2021 18:22:50.062 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+31-Jan-2021 18:22:50.062 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+31-Jan-2021 18:22:50.062 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+31-Jan-2021 18:22:50.062 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+31-Jan-2021 18:22:50.062 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=H:\apache-tomcat-8.5.24
+31-Jan-2021 18:22:50.063 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=H:\apache-tomcat-8.5.24
+31-Jan-2021 18:22:50.063 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=H:\apache-tomcat-8.5.24\temp
+31-Jan-2021 18:22:50.064 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.16] using APR version [1.6.3].
+31-Jan-2021 18:22:50.064 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+31-Jan-2021 18:22:50.064 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+31-Jan-2021 18:22:50.771 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2m  2 Nov 2017]
+31-Jan-2021 18:22:51.145 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+31-Jan-2021 18:22:51.326 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+31-Jan-2021 18:22:51.331 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1745 ms
+31-Jan-2021 18:22:51.362 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+31-Jan-2021 18:22:51.362 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.24
+31-Jan-2021 18:22:51.396 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [H:\apache-tomcat-8.5.24\webapps\dubbo-admin-2.6.0.war]
+31-Jan-2021 18:22:56.516 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+31-Jan-2021 18:23:37.109 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [H:\apache-tomcat-8.5.24\webapps\dubbo-admin-2.6.0.war] has finished in [45,714] ms
+31-Jan-2021 18:23:37.111 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+31-Jan-2021 18:23:37.130 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 45799 ms
+31-Jan-2021 18:25:53.838 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.24
+31-Jan-2021 18:25:53.841 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 27 2017 13:05:30 UTC
+31-Jan-2021 18:25:53.841 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.24.0
+31-Jan-2021 18:25:53.841 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+31-Jan-2021 18:25:53.841 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+31-Jan-2021 18:25:53.841 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+31-Jan-2021 18:25:53.842 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             F:\Java\JDK8\jre
+31-Jan-2021 18:25:53.842 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_241-b07
+31-Jan-2021 18:25:53.842 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+31-Jan-2021 18:25:53.842 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         H:\apache-tomcat-8.5.24
+31-Jan-2021 18:25:53.842 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         H:\apache-tomcat-8.5.24
+31-Jan-2021 18:25:53.842 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=H:\apache-tomcat-8.5.24\conf\logging.properties
+31-Jan-2021 18:25:53.843 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+31-Jan-2021 18:25:53.843 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+31-Jan-2021 18:25:53.843 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+31-Jan-2021 18:25:53.843 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+31-Jan-2021 18:25:53.843 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=H:\apache-tomcat-8.5.24
+31-Jan-2021 18:25:53.844 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=H:\apache-tomcat-8.5.24
+31-Jan-2021 18:25:53.844 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=H:\apache-tomcat-8.5.24\temp
+31-Jan-2021 18:25:53.845 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.16] using APR version [1.6.3].
+31-Jan-2021 18:25:53.845 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+31-Jan-2021 18:25:53.845 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+31-Jan-2021 18:25:54.481 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2m  2 Nov 2017]
+31-Jan-2021 18:25:54.552 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+31-Jan-2021 18:25:54.690 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+31-Jan-2021 18:25:54.694 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1083 ms
+31-Jan-2021 18:25:54.716 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+31-Jan-2021 18:25:54.716 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.24
+31-Jan-2021 18:25:54.730 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [H:\apache-tomcat-8.5.24\webapps\dubbo-admin-2.6.0.war]
+31-Jan-2021 18:25:57.506 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+31-Jan-2021 18:26:37.881 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [H:\apache-tomcat-8.5.24\webapps\dubbo-admin-2.6.0.war] has finished in [43,151] ms
+31-Jan-2021 18:26:37.883 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+31-Jan-2021 18:26:37.891 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 43196 ms
+31-Jan-2021 18:31:04.923 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.24
+31-Jan-2021 18:31:04.925 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 27 2017 13:05:30 UTC
+31-Jan-2021 18:31:04.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.24.0
+31-Jan-2021 18:31:04.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+31-Jan-2021 18:31:04.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+31-Jan-2021 18:31:04.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+31-Jan-2021 18:31:04.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             F:\Java\JDK8\jre
+31-Jan-2021 18:31:04.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_241-b07
+31-Jan-2021 18:31:04.927 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+31-Jan-2021 18:31:04.927 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         H:\apache-tomcat-8.5.24
+31-Jan-2021 18:31:04.927 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         H:\apache-tomcat-8.5.24
+31-Jan-2021 18:31:04.927 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=H:\apache-tomcat-8.5.24\conf\logging.properties
+31-Jan-2021 18:31:04.927 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+31-Jan-2021 18:31:04.927 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+31-Jan-2021 18:31:04.928 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+31-Jan-2021 18:31:04.928 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+31-Jan-2021 18:31:04.928 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=H:\apache-tomcat-8.5.24
+31-Jan-2021 18:31:04.929 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=H:\apache-tomcat-8.5.24
+31-Jan-2021 18:31:04.929 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=H:\apache-tomcat-8.5.24\temp
+31-Jan-2021 18:31:04.930 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.16] using APR version [1.6.3].
+31-Jan-2021 18:31:04.930 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+31-Jan-2021 18:31:04.931 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+31-Jan-2021 18:31:05.603 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2m  2 Nov 2017]
+31-Jan-2021 18:31:05.677 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+31-Jan-2021 18:31:05.817 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+31-Jan-2021 18:31:05.820 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1128 ms
+31-Jan-2021 18:31:05.841 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+31-Jan-2021 18:31:05.842 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.24
+31-Jan-2021 18:31:05.855 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [H:\apache-tomcat-8.5.24\webapps\dubbo-admin-2.6.0.war]
+31-Jan-2021 18:31:08.572 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+31-Jan-2021 18:31:52.124 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.24
+31-Jan-2021 18:31:52.126 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 27 2017 13:05:30 UTC
+31-Jan-2021 18:31:52.127 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.24.0
+31-Jan-2021 18:31:52.127 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+31-Jan-2021 18:31:52.127 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+31-Jan-2021 18:31:52.127 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+31-Jan-2021 18:31:52.127 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             F:\Java\JDK8\jre
+31-Jan-2021 18:31:52.127 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_241-b07
+31-Jan-2021 18:31:52.128 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+31-Jan-2021 18:31:52.128 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         H:\apache-tomcat-8.5.24
+31-Jan-2021 18:31:52.128 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         H:\apache-tomcat-8.5.24
+31-Jan-2021 18:31:52.128 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=H:\apache-tomcat-8.5.24\conf\logging.properties
+31-Jan-2021 18:31:52.128 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+31-Jan-2021 18:31:52.128 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+31-Jan-2021 18:31:52.129 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+31-Jan-2021 18:31:52.129 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+31-Jan-2021 18:31:52.129 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=H:\apache-tomcat-8.5.24
+31-Jan-2021 18:31:52.130 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=H:\apache-tomcat-8.5.24
+31-Jan-2021 18:31:52.130 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=H:\apache-tomcat-8.5.24\temp
+31-Jan-2021 18:31:52.131 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.16] using APR version [1.6.3].
+31-Jan-2021 18:31:52.131 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+31-Jan-2021 18:31:52.131 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+31-Jan-2021 18:31:52.771 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2m  2 Nov 2017]
+31-Jan-2021 18:31:52.842 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+31-Jan-2021 18:31:52.982 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+31-Jan-2021 18:31:52.985 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1099 ms
+31-Jan-2021 18:31:53.007 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+31-Jan-2021 18:31:53.007 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.24
+31-Jan-2021 18:31:53.021 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [H:\apache-tomcat-8.5.24\webapps\dubbo-admin-2.6.0.war]
+31-Jan-2021 18:31:55.828 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+31-Jan-2021 18:32:06.116 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [H:\apache-tomcat-8.5.24\webapps\dubbo-admin-2.6.0.war] has finished in [13,094] ms
+31-Jan-2021 18:32:06.117 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+31-Jan-2021 18:32:06.124 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 13137 ms
+31-Jan-2021 19:00:44.782 信息 [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+31-Jan-2021 19:00:44.783 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+31-Jan-2021 19:00:44.926 信息 [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+31-Jan-2021 19:00:44.963 警告 [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [dubbo-admin-2.6.0] appears to have started a thread named [DubboRegistryFailedRetryTimer-thread-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1093)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+31-Jan-2021 19:00:44.964 警告 [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [dubbo-admin-2.6.0] appears to have started a thread named [ZkClient-EventThread-21-192.168.14.3:2181] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+ org.I0Itec.zkclient.ZkEventThread.run(ZkEventThread.java:67)
+31-Jan-2021 19:00:44.965 警告 [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [dubbo-admin-2.6.0] appears to have started a thread named [DubboZkclientConnector-SendThread(192.168.14.3:2181)] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+ sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(WindowsSelectorImpl.java:296)
+ sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(WindowsSelectorImpl.java:278)
+ sun.nio.ch.WindowsSelectorImpl.doSelect(WindowsSelectorImpl.java:159)
+ sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:86)
+ sun.nio.ch.SelectorImpl.select(SelectorImpl.java:97)
+ org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:349)
+ org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+31-Jan-2021 19:00:44.966 警告 [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [dubbo-admin-2.6.0] appears to have started a thread named [DubboZkclientConnector-EventThread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+ org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:501)
+31-Jan-2021 19:00:44.967 警告 [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [dubbo-admin-2.6.0] appears to have started a thread named [DubboFutureCallbackDefault-thread-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:458)
+ java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362)
+ java.util.concurrent.SynchronousQueue.take(SynchronousQueue.java:924)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+31-Jan-2021 19:00:44.968 严重 [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [dubbo-admin-2.6.0] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@4275bd37]) and a value of type [com.alibaba.citrus.util.i18n.LocaleInfo] (value [zh_CN:UTF-8]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+31-Jan-2021 19:00:44.970 严重 [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [dubbo-admin-2.6.0] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@4275bd37]) and a value of type [com.alibaba.citrus.util.i18n.LocaleInfo] (value [zh_CN:UTF-8]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+31-Jan-2021 19:00:44.970 严重 [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [dubbo-admin-2.6.0] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@4275bd37]) and a value of type [com.alibaba.citrus.util.i18n.LocaleInfo] (value [zh_CN:UTF-8]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+31-Jan-2021 19:00:44.971 严重 [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [dubbo-admin-2.6.0] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@4275bd37]) and a value of type [com.alibaba.citrus.util.i18n.LocaleInfo] (value [zh_CN:UTF-8]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+31-Jan-2021 19:00:44.971 严重 [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [dubbo-admin-2.6.0] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@4275bd37]) and a value of type [com.alibaba.citrus.util.i18n.LocaleInfo] (value [zh_CN:UTF-8]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+31-Jan-2021 19:00:44.979 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+31-Jan-2021 19:00:44.981 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+31-Jan-2021 22:38:43.841 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.24
+31-Jan-2021 22:38:43.843 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 27 2017 13:05:30 UTC
+31-Jan-2021 22:38:43.843 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.24.0
+31-Jan-2021 22:38:43.843 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+31-Jan-2021 22:38:43.843 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+31-Jan-2021 22:38:43.844 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+31-Jan-2021 22:38:43.844 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             F:\Java\JDK8\jre
+31-Jan-2021 22:38:43.844 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_241-b07
+31-Jan-2021 22:38:43.844 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+31-Jan-2021 22:38:43.844 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         H:\apache-tomcat-8.5.24
+31-Jan-2021 22:38:43.844 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         H:\apache-tomcat-8.5.24
+31-Jan-2021 22:38:43.845 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=H:\apache-tomcat-8.5.24\conf\logging.properties
+31-Jan-2021 22:38:43.845 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+31-Jan-2021 22:38:43.845 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+31-Jan-2021 22:38:43.845 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+31-Jan-2021 22:38:43.845 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+31-Jan-2021 22:38:43.845 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=H:\apache-tomcat-8.5.24
+31-Jan-2021 22:38:43.846 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=H:\apache-tomcat-8.5.24
+31-Jan-2021 22:38:43.847 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=H:\apache-tomcat-8.5.24\temp
+31-Jan-2021 22:38:43.847 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.16] using APR version [1.6.3].
+31-Jan-2021 22:38:43.847 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+31-Jan-2021 22:38:43.848 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+31-Jan-2021 22:38:44.497 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2m  2 Nov 2017]
+31-Jan-2021 22:38:44.569 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+31-Jan-2021 22:38:44.709 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+31-Jan-2021 22:38:44.713 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1116 ms
+31-Jan-2021 22:38:44.734 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+31-Jan-2021 22:38:44.735 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.24
+31-Jan-2021 22:38:44.749 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [H:\apache-tomcat-8.5.24\webapps\dubbo-admin-2.6.0.war]
+31-Jan-2021 22:38:47.539 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+31-Jan-2021 22:38:58.212 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [H:\apache-tomcat-8.5.24\webapps\dubbo-admin-2.6.0.war] has finished in [13,463] ms
+31-Jan-2021 22:38:58.214 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+31-Jan-2021 22:38:58.220 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 13506 ms
+31-Jan-2021 22:46:44.742 信息 [http-nio-8080-exec-10] org.apache.tomcat.util.http.parser.Cookie.logInvalidHeader A cookie header was received [.\.\.\.\.\.org.springframework.aop.SpringProxy..../dubbo-admin-2.6.0/governance/applications/dubbodemo_provider/services/org.springframework.aop.SpringProxy/providers"; tmp0=eNpdUE1PwkAQDV%2FSaIx69WSIJwPNthQo3EiBKB9FrQpy0W13CqvbLu62IBp%2Fjv%2FTBePFOcxMZt689zKXB0EqBMTJvQThoErAIx0z6mMf6yT1fa4LmFOZiI2uVhGPdcIjTGN9i%2F%2FWUpVjHIG2xFKuuSB5wRkUAwE44aIIMfYZkPwWsk9giUUSKa0CKApWWC54DEWllmD2usd4gBkcK8IVDeBa0BVlMIcsJRpfgtjyHf01bUIESJmPqJQn%2Fy9kjhL5awGIFnFCQwokF%2FP1s3LHE3QGhmGaflglTbAN32yEYbNRtap%2B3Qwb9WpYy9y6dzuoqyL7schcqNp7O33BK6ynCWV6Wwi8kee7MlTv2SHcQ6%2FreVdj92k07nSHaPJJSatkT6Y9r99xKj3Hdkcjt2%2FdjB8da%2FZg2PWpWXFmkwkaDgYVVCoHScuoGyZqIrNmIRuVcbAbGMiykGE1UDl6b6Gv2Q%2BjIZB8] that contained an invalid cookie. That cookie will be ignored.Note: further occurrences of this error will be logged at DEBUG level.
+31-Jan-2021 22:51:40.551 信息 [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+31-Jan-2021 22:51:40.552 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+31-Jan-2021 22:51:40.693 信息 [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+31-Jan-2021 22:51:40.723 警告 [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [dubbo-admin-2.6.0] appears to have started a thread named [DubboRegistryFailedRetryTimer-thread-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1093)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+31-Jan-2021 22:51:40.723 警告 [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [dubbo-admin-2.6.0] appears to have started a thread named [ZkClient-EventThread-21-192.168.14.3:2181] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+ org.I0Itec.zkclient.ZkEventThread.run(ZkEventThread.java:67)
+31-Jan-2021 22:51:40.724 警告 [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [dubbo-admin-2.6.0] appears to have started a thread named [DubboZkclientConnector-SendThread(192.168.14.3:2181)] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+ sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(WindowsSelectorImpl.java:296)
+ sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(WindowsSelectorImpl.java:278)
+ sun.nio.ch.WindowsSelectorImpl.doSelect(WindowsSelectorImpl.java:159)
+ sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:86)
+ sun.nio.ch.SelectorImpl.select(SelectorImpl.java:97)
+ org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:349)
+ org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+31-Jan-2021 22:51:40.724 警告 [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [dubbo-admin-2.6.0] appears to have started a thread named [DubboZkclientConnector-EventThread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+ org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:501)
+31-Jan-2021 22:51:40.725 警告 [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [dubbo-admin-2.6.0] appears to have started a thread named [DubboFutureCallbackDefault-thread-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:458)
+ java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362)
+ java.util.concurrent.SynchronousQueue.take(SynchronousQueue.java:924)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+31-Jan-2021 22:51:40.726 严重 [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [dubbo-admin-2.6.0] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@58036042]) and a value of type [com.alibaba.citrus.util.i18n.LocaleInfo] (value [zh_CN:UTF-8]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+31-Jan-2021 22:51:40.726 严重 [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [dubbo-admin-2.6.0] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@58036042]) and a value of type [com.alibaba.citrus.util.i18n.LocaleInfo] (value [zh_CN:UTF-8]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+31-Jan-2021 22:51:40.727 严重 [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [dubbo-admin-2.6.0] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@58036042]) and a value of type [com.alibaba.citrus.util.i18n.LocaleInfo] (value [zh_CN:UTF-8]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+31-Jan-2021 22:51:40.727 严重 [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [dubbo-admin-2.6.0] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@58036042]) and a value of type [com.alibaba.citrus.util.i18n.LocaleInfo] (value [zh_CN:UTF-8]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+31-Jan-2021 22:51:40.727 严重 [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [dubbo-admin-2.6.0] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@58036042]) and a value of type [com.alibaba.citrus.util.i18n.LocaleInfo] (value [zh_CN:UTF-8]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+31-Jan-2021 22:51:40.728 严重 [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [dubbo-admin-2.6.0] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@58036042]) and a value of type [com.alibaba.citrus.util.i18n.LocaleInfo] (value [zh_CN:UTF-8]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+31-Jan-2021 22:51:40.728 严重 [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [dubbo-admin-2.6.0] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@58036042]) and a value of type [com.alibaba.citrus.util.i18n.LocaleInfo] (value [zh_CN:UTF-8]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+31-Jan-2021 22:51:40.728 严重 [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [dubbo-admin-2.6.0] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@58036042]) and a value of type [com.alibaba.citrus.util.i18n.LocaleInfo] (value [zh_CN:UTF-8]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+31-Jan-2021 22:51:40.731 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+31-Jan-2021 22:51:40.732 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

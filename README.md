@@ -1,2 +1,4 @@
 # Study-Dubbo
 Dubbo学习
+
+tomcat服务器中放的是一个dubbo页面控制器。在bin目录下开启tomcat即可，如果无法启动记得修改Zookeeper地址。
